@@ -7,11 +7,9 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Título do projeto teste</title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        Esta é a minha modificação
     </body>
 </html>
